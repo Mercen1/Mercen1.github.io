@@ -1,92 +1,78 @@
-.background {
-    background-image: linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.6)), url(https://thumbs.dreamstime.com/z/old-retro-background-rays-explosion-imitation-vintage-starburst-pattern-bristle-texture-circus-style-flat-vector-145565283.jpg);
+body{
+    background-color: turquoise;
 }
 
-.web-title{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
+.textjalan{
+    font-size: 30px;
+    color: royalblue;
+    margin-bottom: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ziejalan{
+    color: yellow;
+
+}
+.gambar{
+    padding-top: 0%;
+    border-radius:50%;
+    overflow: hidden;
+    border: 4px solid yellow;
+    text-align: left;
 }
 
 .navigator {
-    text-align: center;
+    text-align: right;
+    font-weight: bold;
 }
 
 .nav-butt {
-    background-color: beige;
+    background-color: #00C03F ;
     border: none;
-    color: crimson;
+    color: yellow;
     padding: 15px 32px;
     text-align: center;
     display: inline-block;
     align-content: center;
-    font-size: 16px;
+    font-size: 20px;
     margin: 30px;
     cursor: pointer;
+    font-weight: bold;
 }
-
-.nav-butt:hover {
-    background-color: crimson;
-    border: none;
-    color: chartreuse;
-    padding: 15px 32px;
+.pulsa1{
+    color: yellow;
+    margin-block-end: auto;
+    margin-top: 20px;
+    margin-left: 8px;
+    border-inline-end: white;
+}
+h1.tittle{
     text-align: center;
-    align-content: center;
-    display: inline-block;
-    font-size: 16px;
-    margin: 30px;
-    cursor: pointer;
+    margin:auto;
 }
-
-.sepatu {
-    display: block;
-    margin-left: 28%;
-    margin-right: auto;
-    width: 50%;
-}
-
-.about {
-    font-family: 'Passion One', cursive;
+p.pendahuluan{
+    text-align: center;
     font-size: 50px;
-    color: rgb(80, 181, 240);
-    text-shadow:5px 5px 5px black;
+    font-style: unset;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 35px;
+
+}
+.agen1{
+    color: #00C03F !important;
+}
+
+p.pendahuluan2{
+    text-align: center;
+    font-size: 20px;
+    margin: 45px;
+}
+.gambar1{
+    text-align: center;
+    line-height: 1.4;
+    display: block;
+    margin: auto;
     
 }
-
-.p1 {
-    font-family: 'Prata', serif;
-    font-size: 25px;
-    color: rgb(255, 230, 0);
-    text-shadow:5px 5px 5px black;
+h2{
+    text-align: center;
 }
-
-.product {
-    font-family: 'Passion One', cursive;
-    font-size: 50px;
-    color: rgb(80, 181, 240);
-    text-shadow:5px 5px 5px black;
-}
-
-.p2 {
-    font-family: 'Prata', serif;
-    font-size: 25px;
-    color: rgb(255, 230, 0);
-    text-shadow:5px 5px 5px black;
-}
-
-.contact {
-    font-family: 'Passion One', cursive;
-    font-size: 50px;
-    color: rgb(80, 181, 240);
-    text-shadow:5px 5px 5px black;
-}
-
-.p3 {
-    font-family: 'Prata', serif;
-    font-size: 25px;
-    color: rgb(255, 230, 0);
-    text-shadow:5px 5px 5px black;
-}
-
-
